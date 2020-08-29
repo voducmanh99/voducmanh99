@@ -13,6 +13,8 @@
 </a>
 
 <br />
+<br />
+<br />
 
 ### information
 
@@ -35,8 +37,8 @@ Hi, I'm [Duc Manh](https://voducmanh.com), a Full Stack Developer 🚀 from Viet
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   50 % 
-ReactJS      7 hrs 41 mins   ████████████▓░░░░░░░░░░░░   50 % 
+JavaScript   2 hrs         █████████████░░░░░░░░░░░░   50 % 
+ReactJS      4 hrs         █████████████▓░░░░░░░░░░░   50 % 
 ```
 <!--END_SECTION:waka-->
 
