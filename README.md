@@ -1,14 +1,14 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.facebook.com/voducmanh.kai/">
+<a href="https://www.facebook.com/voducmanh.kai/" target="_blank">
   <img align="left" alt="Võ Đức Mạnh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.instagram.com/voducmanh99/">
+<a href="https://www.instagram.com/voducmanh99/" target="_blank">
   <img align="left" alt="Võ Đức Mạnh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://twitter.com/VoDucManh1999">
+<a href="https://twitter.com/VoDucManh1999" target="_blank">
   <img align="left" alt="Võ Đức Mạnh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/i-m-kai-8976251b4/">
+<a href="https://www.linkedin.com/in/i-m-kai-8976251b4/" target="_blank">
   <img align="left" alt="I'm Kai" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
