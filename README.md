@@ -13,7 +13,6 @@
 </a>
 
 <br />
-<br />
 
 ### information
 
@@ -25,7 +24,7 @@ Hi, I'm [Duc Manh](https://voducmanh.com), a Full Stack Developer 🚀 from Viet
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning ReactJS; 
-- 📫 How to reach me: [@voducmanh.kai](https://www.facebook.com/voducmanh.kai/);
+- 📫 How to reach me: [facebook@voducmanh.kai](https://www.facebook.com/voducmanh.kai/);
 
 **Languages and Tools:**  
 
