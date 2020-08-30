@@ -1,16 +1,26 @@
-name: Waka Readme
+name: main
 
 on:
   workflow_dispatch:
   schedule:
-    # Runs every 2 hours
-    - cron: "0 */2 * * *"
+  - cron: "0 0 * * *"
 
 jobs:
-  update-readme:
-    name: Update this repo's README
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v1
+      with:
+        node-version: 12.16.1
+    - run: npm ci
+    - name: Generate quote
+      run: npm run generate
+    - name: Update README.md
+      run: |
+        git config --global user.email "vdmanh99@gmail.com"
+        git config --global user.name "voducmanh99"
+        git add .
+        git commit -m "Updated README.md" || echo "No changes to commit"
+        git push
