@@ -16,13 +16,13 @@
 
 ### Information
 
-Hi, I'm [Duc Manh](https://voducmanh.com), a Full Stack Developer 🚀 from VietNam. Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Duc Manh](https://voducmanh.com), a Front-End Developer 🚀 from VietNam. Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/voducmanh99/voducmanh99/blob/master/code.gif?raw=true" width="500" height="320" />
 
 **Website:**
 
-Wordpress: [Vo Duc Manh](https://voducmanh.com/)
+[Vo Duc Manh](https://voducmanh.com/)
 
 **Talking about Personal Stuffs:**
 
