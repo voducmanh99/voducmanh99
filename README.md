@@ -37,12 +37,10 @@ Hi, I'm [Duc Manh](https://voducmanh.com), a Front-End Developer 🚀 from VietN
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
 ```text
 JavaScript   2 hrs         █████████████░░░░░░░░░░░░   50 % 
-ReactJS      4 hrs         █████████████▓░░░░░░░░░░░   50 % 
+ReactJS      2 hrs         █████████████▓░░░░░░░░░░░   50 % 
 ```
-<!--END_SECTION:waka-->
 
 <details>
 <summary>📈 My GitHub Stats</summary>
