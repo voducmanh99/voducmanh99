@@ -20,10 +20,6 @@ Hi, I'm [Duc Manh](https://voducmanh.com), a Front-End Developer 🚀 from VietN
 
   <img align="right" alt="GIF" src="https://github.com/voducmanh99/voducmanh99/blob/master/code.gif?raw=true" width="500" height="320" />
 
-**Website:**
-
-[Vo Duc Manh](https://voducmanh.com/)
-
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
