@@ -18,13 +18,12 @@
 
 I'm [Kai](https://voducmanh.com), a Front-End Developer 🚀 from VietNam. Beside's programming, I enjoy eating food and traveling.
 
-  <img align="right" alt="GIF" src="https://github.com/voducmanh99/voducmanh99/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+###📈 My GitHub Stats
 
-<details>
-<summary>📈 My GitHub Stats</summary>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=voducmanh99&show_icons=true&theme=gotham" alt="voducmanh99" />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=voducmanh99&show_icons=true&theme=gotham" alt="voducmanh99" />
+<img align="right" alt="GIF" src="https://github.com/voducmanh99/voducmanh99/blob/master/code.gif?raw=true" width="400" height="270" />
 
-</details>
 
 
