@@ -26,17 +26,6 @@ Hi, I'm [Duc Manh](https://voducmanh.com), a Front-End Developer 🚀 from VietN
 - 🌱 I’m currently learning ReactJS; 
 - 📫 How to reach me: [facebook@voducmanh.kai](https://www.facebook.com/voducmanh.kai/);
 
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-
-📊 **This Week I Spent My Time On:**
-```text
-JavaScript   2 hrs         █████████████░░░░░░░░░░░░   50 % 
-ReactJS      2 hrs         █████████████▓░░░░░░░░░░░   50 % 
-```
 
 <details>
 <summary>📈 My GitHub Stats</summary>
