@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello, I'm Kai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.facebook.com/voducmanh.kai/" target="_blank">
   <img align="left" alt="Võ Đức Mạnh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
@@ -16,16 +16,9 @@
 
 ### Information
 
-Hi, I'm [Duc Manh](https://voducmanh.com), a Front-End Developer 🚀 from VietNam. Beside's programming, I enjoy eating food and traveling.
+I'm [Kai](https://voducmanh.com), a Front-End Developer 🚀 from VietNam. Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/voducmanh99/voducmanh99/blob/master/code.gif?raw=true" width="500" height="320" />
-
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning ReactJS; 
-- 📫 How to reach me: [facebook@voducmanh.kai](https://www.facebook.com/voducmanh.kai/);
-
 
 <details>
 <summary>📈 My GitHub Stats</summary>
