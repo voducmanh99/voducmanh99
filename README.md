@@ -8,5 +8,3 @@ I'm [Kai](https://voducmanh.com), a Front-End 🚀 from VietNam. Beside's progra
 ###📈 My GitHub Stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=voducmanh99&show_icons=true&theme=gotham" alt="voducmanh99" width="400"/>
-
-<img align="right" alt="GIF" src="https://github.com/voducmanh99/voducmanh99/blob/master/code.gif?raw=true" width="400"  />
