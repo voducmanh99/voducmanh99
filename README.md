@@ -1,8 +1,6 @@
-## Hello, I'm Kai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hello, I'm Kai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### Information
-
-I'm [Kai](https://voducmanh.com), a Front-End 🚀 from VietNam. Beside's programming, I enjoy eating food and traveling.
+## I'm [Kai](https://www.facebook.com/voducmanh.kai/).
 
 ![](https://komarev.com/ghpvc/?username=voducmanh99&color=blueviolet)
 
