@@ -4,7 +4,7 @@
 
 I'm [Kai](https://voducmanh.com), a Front-End 🚀 from VietNam. Beside's programming, I enjoy eating food and traveling.
 
-![](https://komarev.com/ghpvc/?username=voducmanh99)
+![](https://komarev.com/ghpvc/?username=voducmanh99&color=blueviolet)
 
 ###📈 My GitHub Stats
 
