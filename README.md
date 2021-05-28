@@ -6,4 +6,3 @@
 
 <p><a href="https://www.buymeacoffee.com/voducmanh99"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="voducmanh99" /></a></p>
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=voducmanh99&show_icons=true&theme=gotham" alt="voducmanh99" width="400"/>
